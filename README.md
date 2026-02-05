@@ -6,15 +6,15 @@ Sistem pakar sederhana berbasis Streamlit untuk mengidentifikasi gaya belajar se
     👉 https://vark-expert-system.streamlit.app/
 
 📂 Struktur Project
-    VARK_EXPERT_SYSTEM/
-    ├── .streamlit/
-    │   └── config.toml       # Konfigurasi UI (Theme)
-    ├── modules/
-    │   ├── data.py           # Database pertanyaan & rule
-    │   ├── logic.py          # Logika inferensi sistem pakar
-    │   └── ui.py             # Komponen antarmuka (Frontend)
-    ├── app.py                # Main entry point aplikasi
-    └── requirements.txt      # Daftar dependensi library
+VARK_EXPERT_SYSTEM/
+├── .streamlit/
+│   └── config.toml       # Konfigurasi UI (Theme)
+├── modules/
+│   ├── data.py           # Database pertanyaan & rule
+│   ├── logic.py          # Logika inferensi sistem pakar
+│   └── ui.py             # Komponen antarmuka (Frontend)
+├── app.py                # Main entry point aplikasi
+└── requirements.txt      # Daftar dependensi library
 
 💻 Cara Menjalankan di Local (Laptop)
     1. Install Library
