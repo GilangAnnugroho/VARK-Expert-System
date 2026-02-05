@@ -19,9 +19,3 @@ Browser akan otomatis terbuka. Jika tidak, akses link berikut secara manual: htt
 
 4. Berhenti (Stop)
 Untuk mematikan aplikasi, kembali ke terminal lalu tekan tombol: Ctrl + C
-
-🛠️ Teknologi
-Language: Python 3
-Framework: Streamlit
-Visualization: Altair / Pandas
-Logic: Rule-Based System (Forward Chaining)
