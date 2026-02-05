@@ -18,4 +18,5 @@ streamlit run app.py
 Browser akan otomatis terbuka. Jika tidak, akses link berikut secara manual: http://localhost:8501
 
 4. Berhenti (Stop)
-Untuk mematikan aplikasi, kembali ke terminal lalu tekan tombol: Ctrl + C
+Untuk mematikan aplikasi, kembali ke terminal lalu tekan tombol:
+Ctrl + C
