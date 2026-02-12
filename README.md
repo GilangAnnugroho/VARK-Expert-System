@@ -2,7 +2,6 @@
 Sistem pakar sederhana berbasis **Streamlit** untuk mengidentifikasi gaya belajar seseorang menggunakan model **VARK** (*Visual, Aural, Read/Write, Kinesthetic*). Aplikasi ini memberikan hasil diagnosis serta rekomendasi metode belajar yang sesuai.
 
 🌐 Live Demo
-Aplikasi sudah di-deploy dan dapat diakses langsung tanpa instalasi:
 👉 https://vark-expert-system.streamlit.app/
 
 💻 Cara Menjalankan di Local (Laptop)
